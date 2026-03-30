@@ -110,7 +110,7 @@ export default function LandingPage() {
       features={[
         {
           id: 1,
-          tag: "Centro",          title: "Localização Privilegiada",          subtitle: "Av. São Miguel, 749",          description: "No centro de Dois Irmãos, com fácil acesso.",          imageSrc: "http://img.b2bpic.net/free-vector/collection-geometric-watercolor-pointers_23-2147577979.jpg"},
+          tag: "Centro",          title: "Localização Privilegiada",          subtitle: "Av. São Miguel, 749",          description: "No centro de Dois Irmãos, com fácil acesso.",          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Bag3h5O25bp8ZnRSfrVSnN9A9z/tmp/pin-point-1774831104128-908be9c2.png"},
         {
           id: 2,
           tag: "Inclusão",          title: "Acessibilidade Plena",          subtitle: "Para todos",          description: "Estrutura 100% pensada para cadeirantes e pessoas com mobilidade reduzida.",          imageSrc: "http://img.b2bpic.net/free-photo/wheelchair-sign-road-city_23-2149338546.jpg"},
