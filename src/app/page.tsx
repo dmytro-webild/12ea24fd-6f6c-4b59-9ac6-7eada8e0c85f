@@ -40,7 +40,7 @@ export default function LandingPage() {
           name: "Contato",          id: "contato"},
       ]}
       brandName="Ki Jóia Ótica"
-      button={{ text: "Agendar", href: "#contato" }}
+      button={{ text: "Agendar", href: "https://wa.me/5551999232984?text=Olá!%20Gostaria%20de%20saber%20mais%20sobre%20o%20agendamento%20de%20exames." }}
     />
   </div>
 
@@ -70,7 +70,7 @@ export default function LandingPage() {
       ]}
       buttons={[
         {
-          text: "Agendar Exame",          href: "#contato"},
+          text: "Agendar Exame",          href: "https://wa.me/5551999232984?text=Olá!%20Gostaria%20de%20agendar%20um%20exame."},
         {
           text: "Ver Catálogo",          href: "https://wa.me/5551999232984"},
       ]}
