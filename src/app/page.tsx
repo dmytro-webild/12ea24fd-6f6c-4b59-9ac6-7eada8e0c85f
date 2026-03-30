@@ -67,35 +67,35 @@ export default function LandingPage() {
           handle: "@kijoia",
           testimonial: "Atendimento humano e atencioso.",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/cup-portrait-job-technology-person_1157-4199.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/cup-portrait-job-technology-person_1157-4199.jpg?_wi=1",
         },
         {
           name: "Lucas P.",
           handle: "@kijoia",
           testimonial: "Acessibilidade total no centro!",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/cup-portrait-job-technology-person_1157-4199.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/cup-portrait-job-technology-person_1157-4199.jpg?_wi=2",
         },
         {
           name: "Carla M.",
           handle: "@kijoia",
           testimonial: "Conveniência e ótimos modelos.",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/cup-portrait-job-technology-person_1157-4199.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/cup-portrait-job-technology-person_1157-4199.jpg?_wi=3",
         },
         {
           name: "Roberto F.",
           handle: "@kijoia",
           testimonial: "Expertise técnica diferenciada.",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/cup-portrait-job-technology-person_1157-4199.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/cup-portrait-job-technology-person_1157-4199.jpg?_wi=4",
         },
         {
           name: "Juliana V.",
           handle: "@kijoia",
           testimonial: "Melhor atendimento da região, recomendo!",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/cup-portrait-job-technology-person_1157-4199.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/cup-portrait-job-technology-person_1157-4199.jpg?_wi=5",
         },
       ]}
       buttons={[
@@ -108,7 +108,7 @@ export default function LandingPage() {
           href: "https://wa.me/5551999232984",
         },
       ]}
-      imageSrc="http://img.b2bpic.net/free-photo/cup-portrait-job-technology-person_1157-4199.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/cup-portrait-job-technology-person_1157-4199.jpg?_wi=6"
       avatars={[
         {
           src: "http://img.b2bpic.net/free-photo/cup-portrait-job-technology-person_1157-4199.jpg",
@@ -206,7 +206,7 @@ export default function LandingPage() {
           price: "Agendar",
           rating: 5,
           reviewCount: "100+",
-          imageSrc: "http://img.b2bpic.net/free-photo/cup-portrait-job-technology-person_1157-4199.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/cup-portrait-job-technology-person_1157-4199.jpg?_wi=7",
         },
         {
           id: "p2",
@@ -215,7 +215,7 @@ export default function LandingPage() {
           price: "Ver Catálogo",
           rating: 5,
           reviewCount: "50+",
-          imageSrc: "http://img.b2bpic.net/free-photo/cup-portrait-job-technology-person_1157-4199.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/cup-portrait-job-technology-person_1157-4199.jpg?_wi=8",
         },
         {
           id: "p3",
@@ -224,7 +224,7 @@ export default function LandingPage() {
           price: "Vitalício",
           rating: 5,
           reviewCount: "80+",
-          imageSrc: "http://img.b2bpic.net/free-photo/cup-portrait-job-technology-person_1157-4199.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/cup-portrait-job-technology-person_1157-4199.jpg?_wi=9",
         },
       ]}
       title="Nossos Serviços"
@@ -252,7 +252,7 @@ export default function LandingPage() {
           description: "Praticidade total no (51) 99923-2984.",
         },
       ]}
-      imageSrc="http://img.b2bpic.net/free-vector/new-fashion-collection-template-social-media-banner_53876-116219.jpg"
+      imageSrc="http://img.b2bpic.net/free-vector/new-fashion-collection-template-social-media-banner_53876-116219.jpg?_wi=1"
       mediaAnimation="slide-up"
     />
   </div>
@@ -282,13 +282,13 @@ export default function LandingPage() {
         rows: 4,
         required: true,
       }}
-      imageSrc="http://img.b2bpic.net/free-vector/new-fashion-collection-template-social-media-banner_53876-116219.jpg"
+      imageSrc="http://img.b2bpic.net/free-vector/new-fashion-collection-template-social-media-banner_53876-116219.jpg?_wi=2"
     />
   </div>
 
   <div id="footer" data-section="footer">
       <FooterMedia
-      imageSrc="http://img.b2bpic.net/free-photo/cup-portrait-job-technology-person_1157-4199.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/cup-portrait-job-technology-person_1157-4199.jpg?_wi=10"
       columns={[
         {
           title: "Ki Jóia Ótica",
