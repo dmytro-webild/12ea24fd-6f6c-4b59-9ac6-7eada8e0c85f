@@ -54,19 +54,19 @@ export default function LandingPage() {
       testimonials={[
         {
           name: "Mariana S.",          handle: "@kijoia",          testimonial: "Atendimento humano e atencioso.",          rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/cup-portrait-job-technology-person_1157-4199.jpg"},
+          imageSrc: "http://img.b2bpic.net/free-photo/cup-portrait-job-technology-person_1157-4199.jpg?_wi=1"},
         {
           name: "Lucas P.",          handle: "@kijoia",          testimonial: "Acessibilidade total no centro!",          rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/cup-portrait-job-technology-person_1157-4199.jpg"},
+          imageSrc: "http://img.b2bpic.net/free-photo/cup-portrait-job-technology-person_1157-4199.jpg?_wi=2"},
         {
           name: "Carla M.",          handle: "@kijoia",          testimonial: "Conveniência e ótimos modelos.",          rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/cup-portrait-job-technology-person_1157-4199.jpg"},
+          imageSrc: "http://img.b2bpic.net/free-photo/cup-portrait-job-technology-person_1157-4199.jpg?_wi=3"},
         {
           name: "Roberto F.",          handle: "@kijoia",          testimonial: "Expertise técnica diferenciada.",          rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/cup-portrait-job-technology-person_1157-4199.jpg"},
+          imageSrc: "http://img.b2bpic.net/free-photo/cup-portrait-job-technology-person_1157-4199.jpg?_wi=4"},
         {
           name: "Juliana V.",          handle: "@kijoia",          testimonial: "Melhor atendimento da região, recomendo!",          rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/cup-portrait-job-technology-person_1157-4199.jpg"},
+          imageSrc: "http://img.b2bpic.net/free-photo/cup-portrait-job-technology-person_1157-4199.jpg?_wi=5"},
       ]}
       buttons={[
         {
@@ -74,7 +74,7 @@ export default function LandingPage() {
         {
           text: "Ver Catálogo",          href: "https://wa.me/5551999232984"},
       ]}
-      imageSrc="http://img.b2bpic.net/free-photo/cup-portrait-job-technology-person_1157-4199.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/cup-portrait-job-technology-person_1157-4199.jpg?_wi=6"
       avatars={[
         {
           src: "http://img.b2bpic.net/free-photo/cup-portrait-job-technology-person_1157-4199.jpg",          alt: "Cliente 1"},
@@ -132,13 +132,13 @@ export default function LandingPage() {
       products={[
         {
           id: "p1",          brand: "Exames",          name: "Exames de Precisão",          price: "Agendar",          rating: 5,
-          reviewCount: "100+",          imageSrc: "http://img.b2bpic.net/free-photo/cup-portrait-job-technology-person_1157-4199.jpg"},
+          reviewCount: "100+",          imageSrc: "http://img.b2bpic.net/free-photo/cup-portrait-job-technology-person_1157-4199.jpg?_wi=7"},
         {
           id: "p2",          brand: "Armações",          name: "Curadoria de Marcas",          price: "Ver Catálogo",          rating: 5,
-          reviewCount: "50+",          imageSrc: "http://img.b2bpic.net/free-photo/cup-portrait-job-technology-person_1157-4199.jpg"},
+          reviewCount: "50+",          imageSrc: "http://img.b2bpic.net/free-photo/cup-portrait-job-technology-person_1157-4199.jpg?_wi=8"},
         {
           id: "p3",          brand: "Manutenção",          name: "Ajuste e Cuidado",          price: "Vitalício",          rating: 5,
-          reviewCount: "80+",          imageSrc: "http://img.b2bpic.net/free-photo/cup-portrait-job-technology-person_1157-4199.jpg"},
+          reviewCount: "80+",          imageSrc: "http://img.b2bpic.net/free-photo/cup-portrait-job-technology-person_1157-4199.jpg?_wi=9"},
       ]}
       title="Nossos Serviços"
       description="Soluções completas para sua visão."
@@ -159,7 +159,7 @@ export default function LandingPage() {
         {
           title: "WhatsApp",          description: "Praticidade total no (51) 99923-2984."},
       ]}
-      imageSrc="http://img.b2bpic.net/free-vector/new-fashion-collection-template-social-media-banner_53876-116219.jpg"
+      imageSrc="http://img.b2bpic.net/free-vector/new-fashion-collection-template-social-media-banner_53876-116219.jpg?_wi=1"
       mediaAnimation="slide-up"
     />
   </div>
@@ -181,13 +181,13 @@ export default function LandingPage() {
         name: "msg",        placeholder: "Como podemos ajudar?",        rows: 4,
         required: true,
       }}
-      imageSrc="http://img.b2bpic.net/free-vector/new-fashion-collection-template-social-media-banner_53876-116219.jpg"
+      imageSrc="http://img.b2bpic.net/free-vector/new-fashion-collection-template-social-media-banner_53876-116219.jpg?_wi=2"
     />
   </div>
 
   <div id="footer" data-section="footer">
       <FooterMedia
-      imageSrc="http://img.b2bpic.net/free-photo/cup-portrait-job-technology-person_1157-4199.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/cup-portrait-job-technology-person_1157-4199.jpg?_wi=10"
       columns={[
         {
           title: "Ki Jóia Ótica",          items: [
