@@ -159,7 +159,7 @@ export default function LandingPage() {
         {
           title: "WhatsApp",          description: "Praticidade total no (51) 99923-2984."},
       ]}
-      imageSrc="http://img.b2bpic.net/free-vector/new-fashion-collection-template-social-media-banner_53876-116219.jpg?_wi=1"
+      imageSrc="http://img.b2bpic.net/free-photo/glasses-with-slightly-rounded-frame_23-2150670741.jpg?id=58424522"
       mediaAnimation="slide-up"
     />
   </div>
@@ -181,7 +181,7 @@ export default function LandingPage() {
         name: "msg",        placeholder: "Como podemos ajudar?",        rows: 4,
         required: true,
       }}
-      imageSrc="http://img.b2bpic.net/free-vector/new-fashion-collection-template-social-media-banner_53876-116219.jpg?_wi=2"
+      imageSrc="http://img.b2bpic.net/premium-photo/different-glasses-with-corrective-lenses-white-background-vision-problem_862994-601284.jpg?id=313102259"
     />
   </div>
 
